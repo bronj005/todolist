@@ -173,7 +173,7 @@ ul {
     .icons {
         align-items: center;
         display: flex;
-        gap: 30px;
+        gap: 20px;
     }
     button {
         height: 40px;
