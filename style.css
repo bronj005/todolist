@@ -149,3 +149,35 @@ ul {
     text-decoration: line-through;
     color: blue;
 }
+
+@media screen and (max-width: 768px) {
+    body {
+        font-family: "Poppins", sans-serif;
+        background: #5a07ac;
+    }
+    .container {
+        width: 90%;
+        padding: 10px;
+    }
+    .state-container {
+        padding: 10px;
+    }
+    #progressBar {
+        margin-top: 10px;
+    }
+    #numbers {
+        width: 60px;
+        height: 60px;
+        font-size: 20px;
+    }
+    button {
+        height: 40px;
+        font-size: 18px;
+    }
+    .task {
+        font-size: 14px;
+    }
+    .taskItem {
+        width: 95%;
+    }
+}
