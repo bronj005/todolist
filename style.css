@@ -170,6 +170,11 @@ ul {
         height: 60px;
         font-size: 20px;
     }
+    .icons {
+        align-items: center;
+        display: flex;
+        gap: 30px;
+    }
     button {
         height: 40px;
         font-size: 18px;
